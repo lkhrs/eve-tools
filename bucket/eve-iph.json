@@ -4,7 +4,7 @@
     "homepage": "http://eveiph.github.io/",
     "license": "",
     "hash": "805c72a400f4426de661d81b36675c05d50fc38441da715edcee1c25b22f37a6",
-    "url": "https://github.com/EVEIPH/LatestFiles/raw/master/EVEIPH Binaries.zip",
+    "url": "https://github.com/EVEIPH/LatestFiles/raw/master/EVEIPH%20Binaries.zip",
     "bin": "EVE Isk per Hour.exe",
     "shortcuts": [["EVE Isk per Hour.exe", "EVE Isk per Hour"]],
     "checkver": {
