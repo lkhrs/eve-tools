@@ -1,7 +1,6 @@
 # Tools for EVE Online
 
-<!-- Uncomment the following line after replacing placeholders -->
-<!-- [![Tests](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml) [![Excavator](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml) -->
+[![Tests](https://github.com/lkhrs/eve-tools/actions/workflows/ci.yml/badge.svg)](https://github.com/lkhrs/eve-tools/actions/workflows/ci.yml) [![Excavator](https://github.com/lkhrs/eve-tools/actions/workflows/excavator.yml/badge.svg)](https://github.com/lkhrs/eve-tools/actions/workflows/excavator.yml)
 
 Bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 
